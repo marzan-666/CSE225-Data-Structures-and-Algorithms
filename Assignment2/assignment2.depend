@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1523425486 source:e:\spring semester books\cse 225 lab\dropbox\assignment2\linkedlist.cpp
+	"LinkedList.h"
+	<iostream>
+
+1523425486 e:\spring semester books\cse 225 lab\dropbox\assignment2\linkedlist.h
+
+1523425829 source:e:\spring semester books\cse 225 lab\dropbox\assignment2\main.cpp
+	"LinkedList.h"
+	<iostream>
+
+1523464693 source:c:\users\user\documents\codeblocks projects\assignment2\linkedlist.cpp
+	"LinkedList.h"
+	<iostream>
+
+1523464814 c:\users\user\documents\codeblocks projects\assignment2\linkedlist.h
+
+1523464915 source:c:\users\user\documents\codeblocks projects\assignment2\main.cpp
+	"DoublyLinkedList.h"
+	<iostream>
+
+1523464887 source:c:\users\user\documents\codeblocks projects\assignment2\doublylinkedlist.cpp
+	"DoublyLinkedList.h"
+	<iostream>
+
+1523464791 c:\users\user\documents\codeblocks projects\assignment2\doublylinkedlist.h
+
