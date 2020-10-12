@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1517714041 source:c:\users\lib604\desktop\lab1\main.cpp
+	<iostream>
+	"dynamicArray.h"
+
+1517712262 source:c:\users\lib604\desktop\lab1\src\dynamicarray.cpp
+	"dynamicArray.h"
+
+1517712643 c:\users\lib604\desktop\lab1\include\dynamicarray.h
+
