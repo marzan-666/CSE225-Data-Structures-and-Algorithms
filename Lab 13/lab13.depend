@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1522725364 source:c:\users\lib604\desktop\cse 115\lab13\heaptype.cpp
+	"HeapType.h"
+
+1522725352 c:\users\lib604\desktop\cse 115\lab13\heaptype.h
+
+1446667744 source:c:\users\lib604\desktop\cse 115\lab13\main.cpp
+	<iostream>
+
