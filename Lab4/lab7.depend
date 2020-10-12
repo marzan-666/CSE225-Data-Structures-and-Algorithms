@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1518922525 source:c:\users\lib604\music\lab7\main.cpp
+	"src\SortedType.cpp"
+	<iostream>
+
+1518920860 source:c:\users\lib604\music\lab7\src\sortedtype.cpp
+	"sortedtype.h"
+
+1518922354 c:\users\lib604\music\lab7\include\sortedtype.h
+
+1518920860 c:\users\lib604\music\lab7\src\sortedtype.cpp
+	"sortedtype.h"
+
