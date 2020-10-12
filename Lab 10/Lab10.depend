@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1520874838 source:c:\users\user\documents\codeblocks projects\lab10\main.cpp
+	"stacktype.h"
+	"stacktype.cpp"
+	<iostream>
+
+1520874526 c:\users\user\documents\codeblocks projects\lab10\stacktype.h
+
+1509361632 c:\users\user\documents\codeblocks projects\lab10\stacktype.cpp
+	"stacktype.h"
+	<iostream>
+
+1509361632 source:c:\users\user\documents\codeblocks projects\lab10\stacktype.cpp
+	"stacktype.h"
+	<iostream>
+
