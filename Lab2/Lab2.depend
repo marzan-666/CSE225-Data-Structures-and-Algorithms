@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1517884786 source:c:\users\lib604\desktop\cse115class1\lab2\src\dynamicarray.cpp
+	"DynamicArray.h"
+
+1517885710 c:\users\lib604\desktop\cse115class1\lab2\include\dynamicarray.h
+
+1517886760 source:c:\users\lib604\desktop\cse115class1\lab2\main.cpp
+	"DynamicArray.h"
+	<iostream>
+
+1517886574 c:\users\lib604\desktop\cse115class1\lab2\dynamicarray.h
+
+1517886721 source:c:\users\lib604\desktop\cse115class1\lab2\dynamicarray.cpp
+	"DynamicArray.h"
+
