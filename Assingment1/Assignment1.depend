@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1520418070 source:c:\codeblocks\assignment1\stacktype.cpp
+	"StackType.h"
+	<iostream>
+
+1520419008 c:\codeblocks\assignment1\stacktype.h
+	<iostream>
+
+1520418624 source:c:\codeblocks\assignment1\main.cpp
+	"StackType.cpp"
+	<string.h>
+	<iostream>
+
+1520418070 c:\codeblocks\assignment1\stacktype.cpp
+	"StackType.h"
+	<iostream>
+
+1520418626 source:c:\users\user\documents\codeblocks projects\assignment1\main.cpp
+	"StackType.cpp"
+	<string.h>
+	<iostream>
+
+1520418072 c:\users\user\documents\codeblocks projects\assignment1\stacktype.cpp
+	"StackType.h"
+	<iostream>
+
+1520419010 c:\users\user\documents\codeblocks projects\assignment1\stacktype.h
+	<iostream>
+
