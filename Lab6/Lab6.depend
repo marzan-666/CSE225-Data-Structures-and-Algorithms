@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1519806685 source:c:\users\user\documents\codeblocks projects\lab6\main.cpp
+	"QueType.h"
+	"QueType.cpp"
+	<iostream>
+	<stdlib.h>
+
+1519806760 c:\users\user\documents\codeblocks projects\lab6\quetype.h
+
+1519806740 c:\users\user\documents\codeblocks projects\lab6\quetype.cpp
+	"QueType.h"
+	<iostream>
+
+1519806740 source:c:\users\user\documents\codeblocks projects\lab6\quetype.cpp
+	"QueType.h"
+	<iostream>
+
